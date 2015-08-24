@@ -18,7 +18,7 @@
  - [Hilite](http://hilite.me/) - Подсветка кода с генерацией в HTML
  - [Syntax Highlight](http://www.planetb.ca/syntax-highlight-word) - Подсветка кода в Word  документах
  - [Repl.it](https://repl.it/) - REPL в браузере для нескольких языков 
- - [Ray-Ban](https://made-of-music.com/) - Генерация из твиттов прикольных видео
+ - [Ray-Ban](https://made-of-music.com/) - Генерация из твитов прикольных видео
  - [JScrambler](https://jscrambler.com/ru/) - Защита JS кода(генерация мусора и т.п.)
 
 ##### Сервисы
