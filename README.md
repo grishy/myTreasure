@@ -115,7 +115,7 @@
 ##### Физика
  - [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Простые примеры с физикой в играх(JS)
  - [Введение в дискретно-ориентированные многогранники для задачи определения столкновений](http://habrahabr.ru/post/257339/) - Определения столкновений с картинками :)
- - [ОПРЕДЕЛЕНИЕ СТОЛКНОВЕНИЙ И ПРЕДСТАВЛЕНИЕ ОБЪЕКТОВ В 2D](http://src-code.net/opredelenie-stolknovenij-i-predstavlenie-obektov-v-2d-razrabotka-igr-dlya-os-android/) - Скопированно из «Программирование игр под Android»
+ - [ОПРЕДЕЛЕНИЕ СТОЛКНОВЕНИЙ И ПРЕДСТАВЛЕНИЕ ОБЪЕКТОВ В 2D](http://src-code.net/opredelenie-stolknovenij-i-predstavlenie-obektov-v-2d-razrabotka-igr-dlya-os-android/) - Скопировано из «Программирование игр под Android»
  - [Обнаружение столкновений и анимация спрайтов](http://www.ibm.com/developerworks/ru/library/wa-html5-game8/) - На HTML5 от IBM
  - [Урок: базовые алгоритмы определения столкновений](http://noregret.org/tutor/n/collision/) - Просто и понятно
  - [Физика автомобиля для игр.](http://www.gamedev.ru/code/articles/?id=4233) - 5+
@@ -133,7 +133,7 @@
 ##### Общее
  - [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) - Небольшие кусочки кода для начинающих
  - [Блоги независимых разработчиков игр](http://gamedevblogs.ru/) - Есть интересные посты
- - [Программирование магических игр](http://pmg.org.ru/index.html) - На этом сайте Вы найдете переводы, статьи и уроки по следующим темам: двухмерная и трехмерная графика (DirectX, OpenGL), искуcственный интеллект (в том числе поиск пути, нечеткая логика, нейронные сети, экспертные системы, агенты), а также игровые алгоритмы.
+ - [Программирование магических игр](http://pmg.org.ru/index.html) - На этом сайте Вы найдете переводы, статьи и уроки по следующим темам: двухмерная и трехмерная графика (DirectX, OpenGL), искусственный интеллект (в том числе поиск пути, нечеткая логика, нейронные сети, экспертные системы, агенты), а также игровые алгоритмы.
  - [Дизайн Уровней](http://level-design.ru/index_rus.htm) - Разборка дизайнов уровней популярных игр
  - [About my SRD page and Tools](http://rpg20.com/about.php) - Всё для создания рогалика
 
@@ -159,6 +159,7 @@
  - [Могут ли теги победить рубрики? Иерархии тегов](http://habrahabr.ru/post/229427/) - Хорошая статья о тегах
  - [Хд](http://ruhighload.com/) - О высоких нагрузках
  - [DevShelf.us](http://devshelf.us/) - ХАБ СТАТЕЙ ПРО ВЕБ-РАЗРАБОТКУ
+ - [Hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
 
 #### Графика
  - [Favicons, Touch Icons, Tile Icons и т. д. Что выбрать?](http://habrahabr.ru/post/260777/) - Весёлая история о favicon
