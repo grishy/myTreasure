@@ -1,3 +1,5 @@
+<p align="center"><img src ="work-in-progress.jpg" /></p>
+---
 <p align="center"><img src ="icon.png" /></p>
 
 Список всех интересных и полезных для меня сайтов, статей, сервисов и программ.
