@@ -1,11 +1,10 @@
-<p align="center"><img src ="work-in-progress.jpg" /></p>
----
-<p align="center"><img src ="icon.png" /></p>
+![](img/icon.png)
+
 
 Список всех интересных и полезных для меня сайтов, статей, сервисов и программ.
 
- - ![Прочитано](checked.png) - Прочитано
- - ![Читаю](reading.png) - Читаю
+ - ![Прочитано](img/checked.png) - Прочитано
+ - ![Читаю](img/reading.png) - Читаю
 
 ### Навигация(Потом буду генерить)
 
