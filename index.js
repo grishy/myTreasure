@@ -15,8 +15,8 @@ $('a').each(function(i, elem) { //Проверка ссылок на досту�
     var url = $(elem).attr('href');
 
     request(url, function(error, response) {
-        if (!error && (200 <= response.statusCode && response.statusCode < 404)) {} else {
+        if (error) {
             console.log(url, " : ", error)
-        }
+        };
     })
 });
