@@ -275,6 +275,7 @@
 *   [Курсы информационных технологий](https://academy.yandex.ru/events/kit/) - Много полезного
 *   [Хекслет](http://hexlet.org/) - Много полезного, часть платное
 *   [.тостер {javascript}](http://conf.toster.ru/) - JS
+*   [Stepic.org](https://stepic.org/) - Сейчас сижу тут
 
 * * *
 
