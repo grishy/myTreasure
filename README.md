@@ -122,6 +122,7 @@
 *   [Perf.Rocks](http://perf.rocks/) - Find resources that help you build lightning fast websites
 *   [Froala](https://www.froala.com/wysiwyg-editor) - WYSIWYG HTML text editor
 *   [wwwhere](http://wwwhere.io/)
+*   [coursesity.com](https://coursesity.com/subjects/all) - Discover free & best programming courses online.
 
 #### Графика
 
